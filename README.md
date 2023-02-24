@@ -50,3 +50,24 @@
     <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=kikuchanj1806&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </a>
 </div>
+
+<br>
+<h2 align="center">👽 Where to find me 👽</h2>
+<br>
+
+<div align="center">
+  <a href="https://www.facebook.com/tung.lexuan.3344913" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="lexuantung-facebook" />
+  </a>
+  <a href="https://www.youtube.com/channel/UC0MgbOfvPOrwOn2LPjyesuQ" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="lexuantung-youtube" />
+  </a>
+  <a href="https://www.instagram.com/xtunglgc__" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="lexuantung-instagram" />
+  </a>
+  <a href="mailto:lexuantung2409@gmail.com" target="top">
+    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="lexuantung-email" />
+  </a>
+</div>
+
+<br>
